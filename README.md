@@ -1,4 +1,4 @@
-# This is my project title
+# Decentralised Autonomous Organisation (DAO) Project
 
 This sentence describes what my project is about summarized.
 
